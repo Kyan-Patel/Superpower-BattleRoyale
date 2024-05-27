@@ -38,8 +38,8 @@ Throughout the project, I demonstrated proficiency in the following skills:
 6. **Documentation**:
    - Wrote clear and concise documentation in the form of README files and docstrings to explain project details and code functionality.
 
-## Project Structure
-![image_2024-05-26_174317785](https://github.com/Kyan-Patel/Superpower-BattleRoyale/assets/144975294/8287ba24-927b-45bd-8eb9-5b4d28cf701d)
+
+
 
 
 
