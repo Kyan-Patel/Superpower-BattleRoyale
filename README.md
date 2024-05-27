@@ -39,20 +39,8 @@ Throughout the project, I demonstrated proficiency in the following skills:
    - Wrote clear and concise documentation in the form of README files and docstrings to explain project details and code functionality.
 
 ## Project Structure
+![image_2024-05-26_174317785](https://github.com/Kyan-Patel/Superpower-BattleRoyale/assets/144975294/8287ba24-927b-45bd-8eb9-5b4d28cf701d)
 
-The project directory is organized as follows:
-project_directory/
-├── src/
-│ ├── BattleRoyale.py # Main script to run the battle royale simulation
-│ ├── SuperPower.py # Base class for all characters
-│ ├── Hero.py # Hero class
-│ ├── Villain.py # Villain class
-│ ├── Child_of_Good.py # Child class for specific good characters
-│ ├── Child_of_Evil.py # Child class for specific evil characters
-│ └── SuperpowerDataset.csv # Dataset containing character attributes
-├── tests/ # Unit tests for the project
-├── requirements.txt # Dependencies for the project
-└── README.md # Project documentation
 
 
 
